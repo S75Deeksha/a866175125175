@@ -1,0 +1,7 @@
+Student Notes - CA3
+1. LED = Light Emitting Diode
+2. Works on electroluminescence
+3. Color depends on band gap
+4. Materials: GaAs, GaN, GaP
+5. Used in displays, signals
+6. Low power, long life
