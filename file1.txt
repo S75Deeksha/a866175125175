@@ -5,8 +5,3 @@ Student Notes - CA3
 4. Materials: GaAs, GaN, GaP
 5. Used in displays, signals
 6. Low power, long life
-7. Fast switching speed
-8. Available in many colors
-9. Low heat output
-10. Energy efficient
-11. Used in automotive lightinge
